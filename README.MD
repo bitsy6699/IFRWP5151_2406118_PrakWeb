@@ -17,6 +17,7 @@
 
 ### Spesifikasi Perangkat
 
+- **Device:** Macbook Air M2
 - **CPU:** Apple M2
 - **RAM:** 16 GB
 - **Storage:** 256 GB
